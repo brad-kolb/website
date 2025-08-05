@@ -25,6 +25,13 @@
     "href": "index.html",
     "title": "website",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 5, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 2, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code (2025-8-5) This is a post with executable code.\nWelcome To My Blog (2025-8-2) This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "index.html#blog-entries",
+    "href": "index.html#blog-entries",
+    "title": "website",
+    "section": "",
+    "text": "Post With Code (2025-8-5) This is a post with executable code.\nWelcome To My Blog (2025-8-2) This is the first post in a Quarto blog. Welcome!"
   }
 ]
